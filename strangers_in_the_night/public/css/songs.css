@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background: #F5F0DE;
+  color: #6D6963;
+}
+
+h1, h2 {
+  margin: 25px 0px 10px 0px;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #F5F0DE;
+  background: #6D6963;
+}
+
+
+#songs {
+  width: 60%;
+  margin: 0 auto;
+  padding: 30px;
+  font-size: 25px;
+  font-family: Baskerville;
+}
